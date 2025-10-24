@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTABp_WfqgoTilM-BQymiPtBfkc679QzH_gLA&s">
 <!--
 **SAMUEL123-rtx/SAMUEL123-rtx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
