@@ -1,5 +1,6 @@
 <h1>DEASARROLLO DE APLICACIONES MULTIPLATAFORMA</h1>
 <h2>SAMUEL ESTEBAN RODRÍGUEZ PALENCIA</h2>
+<p>Desarrollador de aplicaciones multiplataforma con experiencia en Java, CSS y bases de datos SQL. Estoy interesado en participar, colaborar y proponer mejoras en el rendimiento, así como en la implementación de nuevas funcionalidades.</p>
 <hr>
 <a href="https://educamosclm.castillalamancha.es/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTABp_WfqgoTilM-BQymiPtBfkc679QzH_gLA&s"></a>
 
